@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ch01_1971535_parkjunhee</string>
+    <string name="textview">입력</string>
+    <string name="button">변경</string>
+    <string name="name">이름</string>
+</resources>
